@@ -1,0 +1,59 @@
+/*Output*/
+
+Case #1: After Running Add:
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+ 
+Case #2: After Running AddAll:
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+Title: The MazeRunner | ID: 22
+Title: Avengers | ID: 24
+ 
+Case #3: After Running remove on the DVD 'The MazeRunner' :
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+Title: Avengers | ID: 24
+ 
+Case #4: After Running clear() :
+Library collection is now empty
+ 
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+Title: The MazeRunner | ID: 22
+Title: Avengers | ID: 24
+ 
+Case #5: After calling removeAll (DVDs):
+Removed the following item Title: The MazeRunner | ID: 22
+Removed the following item Title: Avengers | ID: 24
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+ 
+Case #6: After calling retainAll (DVDs):
+Title: The MazeRunner | ID: 22
+Title: Avengers | ID: 24
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+Library collection is now empty
+ 
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+Title: The MazeRunner | ID: 22
+Title: Avengers | ID: 24
+Books that are overdue: 
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+
