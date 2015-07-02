@@ -89,7 +89,6 @@ public class Tester {
         System.out.println(" ");
 
         Date overDue = new Date(2015, 05, 21);
-        //System.out.println(d2.compareTo(overDue));
 
         // adding back all Library items
         libcol.add(book1);
